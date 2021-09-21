@@ -120,7 +120,7 @@ ${chalk.white.bold.bgBlack("Version:")} ${chalk.red.bold.bgBlack(
 ${chalk.blue.italic.bgBlack("ℹ️ Connecting to WhatsApp... Please wait.")}`);
     });
     conn.on("open", async () => {
-        console.log(chalk.green.bold("✅ Login successful!"));
+        console.log(chalk.green.bold("✅ CHIKUMOL LOGINNED SUCCESFULLY!"));
         console.log(
             chalk.blueBright.italic('⬇️ Installing external plugins...')
         );
@@ -141,7 +141,7 @@ ${chalk.blue.italic.bgBlack("ℹ️ Connecting to WhatsApp... Please wait.")}`);
             }
 
         })
-        console.log(chalk.blueBright.italic("⬇️  Installing plugins..."));
+        console.log(chalk.blueBright.italic("⬇️  Installing plugins...ONNU WAIT AAKU"));
 
         fs.readdirSync("./plugins").forEach((plugin) => {
             if (path.extname(plugin).toLowerCase() == ".js") {
@@ -149,7 +149,7 @@ ${chalk.blue.italic.bgBlack("ℹ️ Connecting to WhatsApp... Please wait.")}`);
             }
         });
 
-        console.log(chalk.green.bold("✅ Plugins installed!"));
+        console.log(chalk.green.bold("✅ CHIKKU MOL SET AYIRIKUNNU!"));
         await conn.sendMessage(conn.user.jid, "*Bot Started*\n\nhttps://github.com/lyfe00011/whatsapp-bot/wiki", MessageType.text);
         let update = await updateChecker()
         if (update !== false) await conn.sendMessage(conn.user.jid, "```New updates available```\n\n" + update, MessageType.text);
