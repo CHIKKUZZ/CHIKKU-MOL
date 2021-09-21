@@ -1,5 +1,5 @@
 {
-    "name": "Bottus",
+    "name": "chikuzz",
     "description": " Whatsapp bot.",
     "keywords": [
         "whatsapp",
@@ -101,7 +101,7 @@
         "WARN_MSG": {
             "description": "Message send while kicking.",
             "required": false,
-            "value": "OK bie"
+            "value": "GO N DIE MONU/MOLU"
         },
         "ALIVE_MSG": {
             "description": "alive command reply message.",
@@ -132,7 +132,7 @@
         },
         "STICKER_PACKNAME": {
             "description": "Sticker pack name,author",
-            "value": "🥰,lyfe00011"
+            "value": "chikuzz"
         }
     },
     "addons": [
