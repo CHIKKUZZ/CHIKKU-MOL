@@ -1,5 +1,5 @@
 {
-  "name": "bottus",
+  "name": "chikuzz",
   "version": "1.0.",
   "description": "A whatsapp User bot",
   "main": "./whatsAsena/bot.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lyfe00011/whatsapp-bot.git"
+    "url": "git+https://github.com/MINION-KOKACHY/CHIKKU-MOL"
   },
   "keywords": [
     "whatsapp",
@@ -18,9 +18,9 @@
   "author": "lyfe00011",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/lyfe00011/whatsapp-bot/issues"
+    "url": "https://github.com/MINION-KOKACHY/CHIKKU-MOL/issues"
   },
-  "homepage": "https://github.com/lyfe00011/whatsapp-bot#readme",
+  "homepage": "https://github.com/MINION-KOKACHY/CHIKKU-MOL#readme",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
     "axios": "^0.21.1",
