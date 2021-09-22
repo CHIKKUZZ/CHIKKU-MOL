@@ -3,7 +3,7 @@
   
   <p align="center">
     
-<a href="#"><img title="CHIKKU-MOL"
+<a href="#"><img title="CHIKKUZZ"
  src="https://img.shields.io/badge/-CHIKKU%20MOLblue?&style=for-the-badge"></a>
  </p>
   <p align="center">
