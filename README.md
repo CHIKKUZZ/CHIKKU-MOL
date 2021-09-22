@@ -14,8 +14,11 @@
  
 ![20210613_095153](https://telegra.ph/file/a29e9d0174562db93d241.jpg) 
 
- ##
-http://api.whatsapp.com/send?phone=972522910056&text=Hi-CHIKKUZz
+ ## contact chikku in
+    <br>
+<br>
+  [![](https://i.imgur.com/Pzy7ccr.jpeg)](http://api.whatsapp.com/send?phone=972522910056&text=Hi-CHIKKUZz)
+
  
 # 📢 Guide
 Click The logo to Join Our Group 👇
