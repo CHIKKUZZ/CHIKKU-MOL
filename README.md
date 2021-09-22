@@ -3,8 +3,8 @@
   
   <p align="center">
     
-<a href="#"><img title="KOKACHY"
- src="https://img.shields.io/badge/-CHIKKU%20MOL?blue?&style=for-the-badge"></a>
+<a href="#"><img title="CHIKKU MOL"
+ src="https://img.shields.io/badge/-CHIKKU%20MOL-blue?&style=for-the-badge"></a>
  </p>
   <p align="center">
 <a href="https://wa.me/+35796962296"><img title="KOKACHY" src="https://img.shields.io/badge/Kokachy-MINION-KOKACHY/CHIKKU%20MOL?color=Blue&style=for-the-badge&logo=whatsapp"></a>
