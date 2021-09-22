@@ -17,7 +17,7 @@
  ## contact chikku in
     <br>
 <br>
-  [![](https://i.imgur.com/Pzy7ccr.jpeg)](http://api.whatsapp.com/send?phone=972522910056&text=Hi-CHIKKUZz)
+  [![TAP](https://i.imgur.com/LEIJszP.jpeg)](http://api.whatsapp.com/send?phone=972522910056&text=Hi-CHIKKUZz)
 
  
 # 📢 Guide
