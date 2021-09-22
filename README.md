@@ -3,11 +3,11 @@
   
   <p align="center">
     
-<a href="#"><img title="KOKU BOT"
- src="https://img.shields.io/badge/-KOKU%20BOT-blue?&style=for-the-badge"></a>
+<a href="#"><img title="CHIKKU-MOL"
+ src="https://img.shields.io/badge/-CHIKKU%20MOLblue?&style=for-the-badge"></a>
  </p>
   <p align="center">
-<a href="https://wa.me/+35796962296"><img title="KOKACHY" src="https://img.shields.io/badge/Kokachy-MINION-KOKACHY/KOKU%20BOT?color=Blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://wa.me/+35796962296"><img title="KOKACHY" src="https://img.shields.io/badge/Kokachy-MINION-KOKACHY/CHIKKU%20MOL?color=Blue&style=for-the-badge&logo=whatsapp"></a>
  </p>
  
 ## My crime partner..
@@ -26,16 +26,16 @@ Click The logo to Join Our Group 👇
  
 
 
-# KOKU-BOT WhatsApp Bot 
+# CHIKKU-MOL WhatsApp Bot 
 
 # Setup
 <div align="center">
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@JihadSabeena123/JULIEMWOL-QR#index.js)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Nightbot2O/baileys-qr)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/J-I-H-A-D/ElsaMwol)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MINION-KOKACHY/CHIKKU-MOL)
      </div>
      
      ## TERMUX SET UP
@@ -47,8 +47,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/MINION-KOKACHY/KOKU-BOT
-$ cd KOKU-BOT
+$ git clone https://github.com/MINION-KOKACHY/CHIKKU-MOL
+$ cd CHIKKU-MOL
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -58,8 +58,8 @@ $ node qr.js
 ```js
 SETUP
 
-$ git clone https://github.com/MINION-KOKACHY/KOKU-BOT
-$ cd KOKU-BOT
+$ git clone https://github.com/MINION-KOKACHY/CHIKKU-MOL
+$ cd CHIKKU-MOL
 $ chmod +x *
 $ npm i
 $ node qr.js
